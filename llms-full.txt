@@ -1,0 +1,106 @@
+a working state.
+
+Milestone 1 – Project Foundation
+
+* Repository initialization
+* Monorepo structure
+* Docker Compose
+* GitHub Actions
+* FastAPI backend
+* Next.js frontend
+* PostgreSQL
+* Redis
+* Environment configuration
+* Health check endpoint
+
+Milestone 2 – Authentication
+
+* User registration
+* Login
+* JWT authentication
+* Refresh tokens
+* OAuth (Google/GitHub)
+* Email verification
+* Password reset
+* Multi-factor authentication
+* Role-based access control
+
+Milestone 3 – Domain Marketplace
+
+* Domain listings
+* Categories
+* Search
+* Filters
+* Favorites
+* Offers
+* Buy Now
+* Seller profiles
+* Reviews
+
+Milestone 4 – AI
+
+* AI domain generator
+* AI domain valuation
+* Brand name generator
+* Logo generation
+* Landing page generation
+* SEO optimization
+* Business description generation
+
+Milestone 5 – Payments
+
+* Paystack
+* Flutterwave
+* Stripe
+* Cryptocurrency
+* Escrow
+* Invoice generation
+* Refund management
+
+Milestone 6 – Dashboard
+
+* Analytics
+* Sales reports
+* Notifications
+* Wallet
+* API keys
+* Activity logs
+* Profile management
+
+Milestone 7 – Admin
+
+* User management
+* Domain moderation
+* Payment management
+* Fraud detection
+* AI moderation
+* System configuration
+
+Milestone 8 – Cloud
+
+* DNS management
+* SSL provisioning
+* Website deployment
+* Email hosting
+* Object storage
+* CDN integration
+
+Milestone 9 – Blockchain
+
+* Wallet integration
+* Smart contracts
+* Domain ownership certificates
+* Escrow contracts
+* NFT support (optional)
+* Tokenized portfolios
+
+Milestone 10 – Production
+
+* Kubernetes
+* Auto-scaling
+* Monitoring
+* Logging
+* Metrics
+* Automated backups
+* Disaster recovery
+* Security scanning
