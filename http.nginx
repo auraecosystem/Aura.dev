@@ -1,0 +1,8 @@
+GET /api/v1/domains/search
+GET /api/v1/domains/{name}
+POST /api/v1/offers
+POST /api/v1/auctions
+POST /api/v1/payments
+POST /api/v1/escrow
+GET /api/v1/recommendations
+POST /api/v1/ai/generate
