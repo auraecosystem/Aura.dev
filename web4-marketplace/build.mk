@@ -1,4 +1,6 @@
-
+git clone <repository>
+cd web4-marketplace
+./install.sh
 scripts/
 ├── install.sh        # One-time project setup
 ├── update.sh         # Update dependencies
