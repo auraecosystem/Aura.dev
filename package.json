@@ -1,0 +1,17 @@
+{
+  "name": "web4-marketplace",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "apps/*",
+    "services/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "bootstrap": "bash scripts/bootstrap.sh",
+    "dev": "echo Start development",
+    "build": "echo Build project",
+    "test": "echo Run tests",
+    "lint": "echo Lint code"
+  }
+}
