@@ -1,0 +1,47 @@
+First Features
+
+The first working release should support:
+
+* User registration and login
+* Domain search
+* Domain listings
+* Seller accounts
+* Buyer accounts
+* AI domain suggestions
+* Dashboard
+* Admin panel
+* REST API
+* OpenAPI/Swagger documentation
+* Docker deployment
+
+Future AI Features
+
+* AI startup-name generator
+* AI logo generation
+* AI slogan generator
+* AI website builder
+* AI landing-page generator
+* AI SEO optimization
+* AI business-plan generator
+* AI pricing assistant
+* AI domain appraisal
+* AI support agent
+
+Future Marketplace Expansion
+
+After domains, the same platform can support:
+
+* AI models
+* APIs
+* SDKs
+* SaaS products
+* Website templates
+* Mobile app templates
+* Plugins
+* Themes
+* Digital assets
+* Datasets
+* Smart contracts
+* AI agents
+* Courses
+* E-books
